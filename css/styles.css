@@ -1,0 +1,99 @@
+h1{
+    margin: 50 0 0 0;
+    font-family: 'Fasthand', cursive;
+    font-size: 70px;
+    line-height: 32px;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+body{
+    text-align: center;
+    color: #40514E;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    background-color: #E4F9F5;
+}
+.middle-container{
+    display: inline-block;
+    border-radius: 10%;
+    width: 80%;
+    margin-bottom: 30px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    background-color: rgb(193, 255, 252);
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color:  #66BFBF;
+    font-weight: normal;
+    padding-top: 10px;
+}
+.btmcld{
+    position: absolute;
+    left: 300px;
+}
+.tpcld{
+    position: relative;
+    left: 220px;
+}
+.top{
+    height: 200px;
+    width: 200px;
+    padding: 100px 20px 0 20px;
+    padding-top: 100px;
+    margin: 10px,0px,0px,0px;
+    height: auto;
+    width: auto;
+}
+.profile{
+    margin-top: 10px;
+    max-width: 200px;
+    max-height: 200px;
+    border: 10px solid;
+}
+.skill-row{
+    display: inline-block;
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.football{
+    background-color: aqua; border-radius: 50%; max-width: 25%; max-height: 25%; float: left;
+    margin-right: 30px;
+}
+.comics{
+    max-width: 25%; max-height: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
